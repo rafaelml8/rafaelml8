@@ -1,10 +1,9 @@
 ### Hi Guys, I'm Rafael 👋
 
 - 🌱 I'm starting to learn programming
-- 🤔 I want to learn everything about programming
+- 😄 I want to learn everything about programming
 - 💬 I accept tips
 - 📫 How to reach me: 71 993132658
-- 😄 I am engaged and I like to learn
 - ⚡ Fun fact: I'm very detailed
 -->
 ##
