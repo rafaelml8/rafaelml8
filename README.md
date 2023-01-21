@@ -30,5 +30,9 @@
   <a href="https://img.shields.io/badge/WhatsApp-25D366-71993132658?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
 </div>
-  
-  
+ 
+  ![Snake animation](https://github.com/rafaelml8/rafaelml8/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelml8&repo=rafaelml8&theme=react)](https://github.com/rafaelml8/rafaelml8)
