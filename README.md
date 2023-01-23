@@ -33,12 +33,15 @@
   <a href = "mailto:rafaelmatoslopes28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-matos-lopes-santana-42589311b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://img.shields.io/badge/WhatsApp-25D366-71993132658?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
 
 </div>
  
   ![Snake animation](https://github.com/rafaelml8/rafaelml8/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
  
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
