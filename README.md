@@ -8,7 +8,12 @@
 -->
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelml8&show_icons=true)
+<div
+  <a href="https://github.com/rafaelml8">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelml8&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelml8&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,4 +40,7 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelml8&repo=rafaelml8&theme=react)](https://github.com/rafaelml8/rafaelml8)
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos:<a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
