@@ -1,4 +1,6 @@
-### Hi Guys, I'm Rafael 👋
+### 😄👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafael+Matos;I'm+27+years+old;I'm+from+Brazil;I+Graduated+Administracao;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🌱 I'm starting to learn programming
 - 😄 I want to learn everything about programming
@@ -24,12 +26,7 @@
   <a href="https://img.shields.io/badge/WhatsApp-25D366-71993132658?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 
-</div>
- 
-  ![Snake animation](https://github.com/rafaelml8/rafaelml8/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafaelml&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 <div align="center">
