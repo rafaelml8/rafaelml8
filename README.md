@@ -25,7 +25,6 @@
   <a href="https://www.linkedin.com/in/rafael-matos-lopes-santana-42589311b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://img.shields.io/badge/WhatsApp-25D366-71993132658?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
-//Rafael Matos lopes 
  
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
