@@ -1,6 +1,6 @@
 ### 😄👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafael+Matos;I'm+27+years+old;I'm+from+Brazil;I+Graduated+Administracao;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafael+Matos;I'm+29+years+old;I'm+from+Brazil;I+Graduated+Administracao;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🌱 I'm starting to learn programming
 - 😄 I want to learn everything about programming
